@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553268361 source:c:\users\lab6\desktop\fila-dupla\main.cpp
+	<iostream>
+	"fila-dupla.h"
+
+1553268292 c:\users\lab6\desktop\fila-dupla\fila-dupla.h
+
